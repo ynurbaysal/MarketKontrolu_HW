@@ -1,0 +1,10 @@
+C:\Users\nur\source\repos\MarketKontrolu_HW\MarketKontrolu_HW\bin\Debug\MarketKontrolu_HW.exe.config
+C:\Users\nur\source\repos\MarketKontrolu_HW\MarketKontrolu_HW\bin\Debug\MarketKontrolu_HW.exe
+C:\Users\nur\source\repos\MarketKontrolu_HW\MarketKontrolu_HW\bin\Debug\MarketKontrolu_HW.pdb
+C:\Users\nur\source\repos\MarketKontrolu_HW\MarketKontrolu_HW\obj\Debug\MarketKontrolu_HW.csprojAssemblyReference.cache
+C:\Users\nur\source\repos\MarketKontrolu_HW\MarketKontrolu_HW\obj\Debug\MarketKontrolu_HW.Form1.resources
+C:\Users\nur\source\repos\MarketKontrolu_HW\MarketKontrolu_HW\obj\Debug\MarketKontrolu_HW.Properties.Resources.resources
+C:\Users\nur\source\repos\MarketKontrolu_HW\MarketKontrolu_HW\obj\Debug\MarketKontrolu_HW.csproj.GenerateResource.cache
+C:\Users\nur\source\repos\MarketKontrolu_HW\MarketKontrolu_HW\obj\Debug\MarketKontrolu_HW.csproj.CoreCompileInputs.cache
+C:\Users\nur\source\repos\MarketKontrolu_HW\MarketKontrolu_HW\obj\Debug\MarketKontrolu_HW.exe
+C:\Users\nur\source\repos\MarketKontrolu_HW\MarketKontrolu_HW\obj\Debug\MarketKontrolu_HW.pdb
